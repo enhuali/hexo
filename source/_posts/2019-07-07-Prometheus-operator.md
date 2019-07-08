@@ -4,7 +4,7 @@ date: 2019-07-07 20:32:24
 tags:
 ---
 
-![img](pics/Prometheus_01.png)
+![img](/pics/Prometheus_01.png)
 
 <!-- more -->
 
@@ -340,4 +340,4 @@ helm upgrade  promethues-operator --namespace monitoring -f prome-settings.yaml 
 
 最后来张效果图
 
-![image-20190526212344714](pics/grafana-01.jpg) 
+![image-20190526212344714](/pics/grafana-01.jpg) 

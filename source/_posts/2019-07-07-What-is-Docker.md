@@ -5,7 +5,7 @@ tags:
 
 ---
 
-![img](pics/Docker_01.png)
+![img](/pics/Docker_01.png)
 
 <!-- more -->
 
@@ -17,7 +17,7 @@ tags:
 
 更简单的说，容器好比运输车（Container）；车内可以装同一类的（Image）物品（快递/石油/泥沙）；装有石油的两辆车可以同时在一条航线（内核）行驶，装有不同物品的车也是如此互不干扰；
 
-![image-20190707174157494](pics/Whatisdocker_01.png)
+![image-20190707174157494](/pics/Whatisdocker_01.png)
 
 ## 如何运行容器？
 

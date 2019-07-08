@@ -4,7 +4,7 @@ date: 2019-07-07 20:32:54
 tags:
 ---
 
-![img](pics/Keepalived_01.png)
+![img](/pics/Keepalived_01.png)
 
 <!-- more -->
 
